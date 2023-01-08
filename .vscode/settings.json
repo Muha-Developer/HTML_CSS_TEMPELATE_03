@@ -1,0 +1,10 @@
+{
+	"workbench.colorTheme": "Monokai Vibrant",
+	"prettier.printWidth": 50,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.tabWidth": 1,
+	"prettier.useTabs": true,
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features"
+	}
+}
